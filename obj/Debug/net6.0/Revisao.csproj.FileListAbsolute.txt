@@ -1,0 +1,15 @@
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\bin\Debug\net6.0\Revisao.exe
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\bin\Debug\net6.0\Revisao.deps.json
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\bin\Debug\net6.0\Revisao.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\bin\Debug\net6.0\Revisao.pdb
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\Revisao.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\refint\Revisao.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\Revisao.pdb
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Revisao\obj\Debug\net6.0\ref\Revisao.dll
